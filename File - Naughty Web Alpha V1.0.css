@@ -1,0 +1,90 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/85/13/6a/85136a840a73c2a6e08db81a00c49816.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+         
+}
+
+#header1{
+    border-top-style:double;
+    border-left-style:double;
+    border-right-style:double;
+    border-bottom-style:double;
+    border-color:black;
+    border-width:10px;
+    border-radius:10px;
+    background:linear-gradient(to right,skyblue,white);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    font-family: "Press Start 2P";
+    font-size:125px;
+    text-align:center;
+    padding-left:30px;
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-top:50px;
+    
+    
+
+        
+    
+}
+.pre{
+    border:5px solid black;
+    margin-top:20px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:10px;
+    background:linear-gradient(to right,white,grey);
+    font-size:155px;
+    padding-top:20px;
+    padding-left:100px;
+    padding-right:20px;
+    padding-bottom:20px;
+    position: sticky;
+    top:0px;
+    
+   
+}
+.P1{
+    color:white;
+    text-align: center;
+    font-size: 150px;
+    background: blanchedalmond;
+    
+}
+#img1{
+    float: left;
+    border:1px solid;
+    margin-top:300px;
+}
+.P2{
+    background:linear-gradient(to right,black,green,white);
+    margin-top:300px;
+    border:0px solid;
+    font-size:50px;
+    font-weight:bold;
+    text-shadow:0px 0px 5px yellow;
+    box-shadow:0px 0px 15px red;
+    }
+.P3{
+    text-align: center;
+    color:white;
+    font-weight:bold;
+    text-shadow:0px 0px 5px red;
+    font-size:75px;
+    margin-top: 300px;
+    margin-bottom: 250px;
+    }
+.P4{
+    background-color:white;
+    font-size:90px;
+    box-shadow:0px 0px 25px whitesmoke;
+}
+.Copyright{
+    color:white;
+    font-size:5px;
+}
+    
